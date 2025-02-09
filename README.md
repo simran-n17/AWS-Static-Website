@@ -1,4 +1,5 @@
 ☕ Simran's Café  – AWS Static Website 🌐
+
 Welcome to Café, a beautifully designed café website, hosted on AWS as a static website! Whether you're craving a hot espresso or a cozy atmosphere, this project brings a virtual café experience to life.
 
 🚀 Project Overview
